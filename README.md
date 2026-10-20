@@ -23,8 +23,8 @@ SkillBanana is a study platform with two separate spaces. Each one has its own d
 | | **Exam Pal** | **Careers** |
 |---|---|---|
 | **Who it's for** | Secondary school students | Graduates and career changers |
-| **What you get** | Timed practice papers for **JAMB UTME, WASSCE and NECO SSCE**, seven subjects each, with every answer explained | Five courses: business analysis; data analysis (Excel, SQL and Power BI); project management; PRINCE2 Foundation; AI governance, risk and compliance |
-| **How you practise** | Tests at real exam pace, scores by topic, theory questions with model answers and marking points | Narrated 3D lessons, knowledge checks, practice tasks, a reviewed portfolio and a certificate of completion |
+| **What you get** | Timed practice papers for **JAMB UTME, WASSCE and NECO SSCE**, seven subjects each, with every answer explained | Six courses, each tied to an entry-level job: business analysis; data analysis (Excel, SQL and Power BI); digital marketing (to the Meta Certified Digital Marketing Associate study guide); project management; PRINCE2 Foundation; AI governance, risk and compliance |
+| **How you practise** | Tests at real exam pace, scores by topic, theory questions with model answers and marking points | Narrated 3D lessons, knowledge checks, practice tasks, a final peer review, skill badges and a certificate of completion |
 | **Help when stuck** | An AI tutor that explains any question another way | The same AI tutor, plus spoken mock interviews |
 
 All exam questions are original practice questions written to each published syllabus: 1,104 multiple-choice and 78 theory questions. They are not past papers, and SkillBanana is not endorsed by JAMB, WAEC, NECO or any awarding body.
@@ -84,7 +84,7 @@ flowchart LR
 
 Live and free to use. In early testing with the first learners.
 
-- **Live now:** Exam Pal for JAMB, WASSCE and NECO in seven subjects each; five Careers courses; the AI tutor; spoken interview practice; certificate checking.
+- **Live now:** Exam Pal for JAMB, WASSCE and NECO in seven subjects each; six Careers courses with a job kit for each role; the AI tutor; spoken interview practice; certificate checking.
 - **Not yet:** internship or job placement, paid plans, and published learner results. Results will be published once they are real.
 
 ## About
